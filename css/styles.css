@@ -1,3 +1,6 @@
-.right-to-left li {
-  float: right;
+.headertext {
+  font-size: 15px;
+}
+.jumbotron {
+  padding: 10px;
 }
